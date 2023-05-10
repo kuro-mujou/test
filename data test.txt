@@ -1,0 +1,29 @@
+player point 			0-60
+player gravity scale	1.5
+player jumping scale	6
+bar speed				1
+bar spawner CD			2
+
+player point 			60-120
+player gravity scale	1.5
+player jumping scale	6.5
+bar speed				1.5
+bar spawner CD			1.34
+
+player point 			120-180
+player gravity scale	1.5
+player jumping scale	6
+bar speed				2
+bar spawner CD			2
+
+player point 			180-240
+player gravity scale	1.5
+player jumping scale	6
+bar speed				2.5
+bar spawner CD			2
+
+player point 			240-300
+player gravity scale	1.5
+player jumping scale	6
+bar speed				3
+bar spawner CD			2
